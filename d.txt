@@ -3,3 +3,4 @@ master test
 evn test
 11111111111
 22222222222
+window_ssh
